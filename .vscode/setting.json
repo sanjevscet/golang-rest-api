@@ -1,0 +1,5 @@
+{
+    "go.formatTool": "gofmt",
+    "go.lintOnSave": true,
+    "go.gopath": "D:\\Projects\\Go Lang\\RestAPI"
+}
